@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_511c123093a320894db415ba769a39eb766b2cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_4e4e048ffaa69bee125c990be32782d22ccfb0b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_565cc16362ad8a4e334ee11ff00a76219d59fa06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_be32baa859e79dad34601d26c285036a06cfdfd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_4dd71c00becf2161f7b5fbb9b12680cdf47b1ea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_7828fd8b35232a2439c9eb5896513005f2ea2eba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_7c141cd4ccf7c0bad1b26d49d4cd56b1f01965b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d80335f62003e7dc1c43ddf28ab1fced81246708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_c22fc2b2340a04ddb8a8c3fd69b850f43cc69824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_e5076b09cd5447b27bdd8d2531002cb5048b3278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fa7d1c7606ff0227997bb09e2ad97fe5b5c835a">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5d4de29530349257d0598efc0f47cad1b30db522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_a6a33e2b8e4bdfb357a7744bb6c96fc3866be14b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e9211ca01e65cca31d71c778d9e3fda65af6e0a">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7be8cdcb4ba4c885fed3e75da15be845e4f74b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_bbee7047db975d96277815003ac983dd35ceff82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_acaaabd111fb39ccce6bdadc5542d5003dd7533d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c7e802647fea094300ce87aaefec3036f78ea84">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c3bc5630b7d91268243e97a25080f00fb8fc2e2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_b4f725841f823714711631f952b165c660e124af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_350341d9a7f564c4eef3c61053bc66bbfa9dcc8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_80dd8f947d17b0374545a39582ede541e43cf7c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_983f3cc1cc4ff64ca82a255b9fab51d3ce0e61e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_7c7381237b32eb667a6777e341e13270ac6b813a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/afafviirtual/AndroidStudioProjects/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_d2c31cd0ba345e1da31bee482572f78dc03ab1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6abf6b21450123d45e5c01063825916570ff766f">
+        <dex dex="/home/afafviirtual/Desktop/Android/TP_ANDROID/TP_COUDE_SOURCE/GL3_TADDIST_AFAF/TP2_ANDROID/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_256f45ab73c9a837d2df6a3cdd3599a358a1b726/classes.dex" />
+    </item>
+
+</items>
